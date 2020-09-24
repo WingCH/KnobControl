@@ -2,12 +2,13 @@
 //  AppDelegate.swift
 //  Example
 //
-//  Created by CHAN Hong Wing on 23/9/2020.
+//  Created by WingCH on 24/9/2020.
+//  Copyright © 2020 WingCH. All rights reserved.
 //
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 

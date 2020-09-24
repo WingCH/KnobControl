@@ -2,7 +2,8 @@
 //  ExampleTests.swift
 //  ExampleTests
 //
-//  Created by CHAN Hong Wing on 23/9/2020.
+//  Created by WingCH on 24/9/2020.
+//  Copyright © 2020 WingCH. All rights reserved.
 //
 
 import XCTest
