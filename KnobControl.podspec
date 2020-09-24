@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "KnobControl"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "A knob control like the UISlider, but in a circular form."
 
   # This description is used to generate tags and improve search results.
@@ -77,7 +77,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source = { :git => "git@github.com:WingCH/KnobControl.git", :tag => "1.0.0" }
+  spec.source = { :git => "git@github.com:WingCH/KnobControl.git", :tag => "1.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
