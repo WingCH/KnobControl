@@ -1,5 +1,5 @@
 PODS:
-  - KnobControl (1.0.0)
+  - KnobControl (1.0.1)
 
 DEPENDENCIES:
   - KnobControl (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  KnobControl: e40116c731dabbdaf785ce52fe2056d82e3aa2b8
+  KnobControl: 838fca70482fdab1cdd25e6317e3d1148ea74591
 
 PODFILE CHECKSUM: 4ad3600a9d65c406bb02f75405ccbc3cb7faae5c
 
-COCOAPODS: 1.9.3
+COCOAPODS: 1.8.4
