@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E016E44251D9353009A7550 /* Knob.swift in Headers */ = {isa = PBXBuildFile; fileRef = 0E883F23251A3FCF00475B32 /* Knob.swift */; settings = {ATTRIBUTES = (Public, ); }; };
 		0E883F14251A3D9D00475B32 /* KnobControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 0E883F12251A3D9D00475B32 /* KnobControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0E883F24251A3FCF00475B32 /* Knob.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E883F23251A3FCF00475B32 /* Knob.swift */; };
 /* End PBXBuildFile section */
@@ -63,6 +64,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E883F14251A3D9D00475B32 /* KnobControl.h in Headers */,
+				0E016E44251D9353009A7550 /* Knob.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
